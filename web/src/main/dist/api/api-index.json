@@ -4,7 +4,12 @@
     "handler": "org.library.handlers.MainHandler#handle"
   },
   {
+
     "path": "/home",
     "handler": "org.library.handlers.MainHandler#handle"
+  },
+  {
+    "path": "/organization",
+    "handler": "org.library.handlers.OrganizationHandler#handle"
   }
 ]
