@@ -11,5 +11,9 @@
   {
     "path": "/organization",
     "handler": "org.library.handlers.OrganizationHandler#handle"
+  },
+  {
+    "path": "/create",
+    "handler": "org.library.handlers.OrganizationHandler#createOrganization"
   }
 ]

@@ -1,8 +1,25 @@
 {
   "_args": [
     [
-      "westyle@github:wedeploy/westyle#v2.0.x",
-      "/Users/brunobasto/Projects/hackaday_library"
+      {
+        "raw": "westyle@github:wedeploy/westyle#v2.0.x",
+        "scope": null,
+        "escapedName": "westyle",
+        "name": "westyle",
+        "rawSpec": "github:wedeploy/westyle#v2.0.x",
+        "spec": "github:wedeploy/westyle#v2.0.x",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:wedeploy/westyle.git#v2.0.x",
+          "sshUrl": "git+ssh://git@github.com/wedeploy/westyle.git#v2.0.x",
+          "httpsUrl": "git+https://github.com/wedeploy/westyle.git#v2.0.x",
+          "gitUrl": "git://github.com/wedeploy/westyle.git#v2.0.x",
+          "shortcut": "github:wedeploy/westyle#v2.0.x",
+          "directUrl": "https://raw.githubusercontent.com/wedeploy/westyle/v2.0.x/package.json"
+        }
+      },
+      "/Users/andersonperrelli/Liferay/LiferayHackDay/hackaday_library/web"
     ]
   ],
   "_from": "wedeploy/westyle#v2.0.x",
@@ -12,31 +29,32 @@
   "_location": "/westyle",
   "_phantomChildren": {},
   "_requested": {
+    "raw": "westyle@github:wedeploy/westyle#v2.0.x",
+    "scope": null,
+    "escapedName": "westyle",
+    "name": "westyle",
+    "rawSpec": "github:wedeploy/westyle#v2.0.x",
+    "spec": "github:wedeploy/westyle#v2.0.x",
+    "type": "hosted",
     "hosted": {
-      "directUrl": "https://raw.githubusercontent.com/wedeploy/westyle/v2.0.x/package.json",
-      "gitUrl": "git://github.com/wedeploy/westyle.git#v2.0.x",
-      "httpsUrl": "git+https://github.com/wedeploy/westyle.git#v2.0.x",
-      "shortcut": "github:wedeploy/westyle#v2.0.x",
+      "type": "github",
       "ssh": "git@github.com:wedeploy/westyle.git#v2.0.x",
       "sshUrl": "git+ssh://git@github.com/wedeploy/westyle.git#v2.0.x",
-      "type": "github"
-    },
-    "name": "westyle",
-    "raw": "westyle@github:wedeploy/westyle#v2.0.x",
-    "rawSpec": "github:wedeploy/westyle#v2.0.x",
-    "scope": null,
-    "spec": "github:wedeploy/westyle#v2.0.x",
-    "type": "hosted"
+      "httpsUrl": "git+https://github.com/wedeploy/westyle.git#v2.0.x",
+      "gitUrl": "git://github.com/wedeploy/westyle.git#v2.0.x",
+      "shortcut": "github:wedeploy/westyle#v2.0.x",
+      "directUrl": "https://raw.githubusercontent.com/wedeploy/westyle/v2.0.x/package.json"
+    }
   },
   "_requiredBy": [
     "/",
     "/metal-toast"
   ],
   "_resolved": "git://github.com/wedeploy/westyle.git#257d3785a747d59b76d22c92838bccbbac811232",
-  "_shasum": "71121054b9f17e78f8f234752bdfe6933ad367f7",
+  "_shasum": "1cc1d32b2db82b5e2045f289ac544bf4f846d832",
   "_shrinkwrap": null,
   "_spec": "westyle@github:wedeploy/westyle#v2.0.x",
-  "_where": "/Users/brunobasto/Projects/hackaday_library",
+  "_where": "/Users/andersonperrelli/Liferay/LiferayHackDay/hackaday_library/web",
   "dependencies": {
     "bootstrap-sass": "^3.3.6"
   },
